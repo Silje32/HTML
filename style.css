@@ -12,6 +12,11 @@ body {
   line-height: 1.5;
 }
 
+header {
+  background-color: white;
+  color: lightcoral;
+}
+
 img {
   max-width: 100%;
   border-radius: 10px;
