@@ -7,11 +7,6 @@ header {
   background-color: white;
 }
 
-img {
-  max-width: 100%;
-  border-radius: 10px;
-}
-
 h1 {
   font-size: 40px;
   text-align: center;
@@ -39,6 +34,11 @@ figure {
   margin-inline: auto;
   padding: 20px;
   border: solid 2px white;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
 }
 
 footer {
