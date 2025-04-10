@@ -3,14 +3,6 @@
   box-sizing: border-box;
 }
 
-body {
-  background-color: lightblue;
-  color: rgb(43, 39, 39);
-  font-family: Arial, Helvetica, sans-serif;
-  letter-spacing: 1px;
-  line-height: 1.5;
-}
-
 header {
   background-color: white;
 }
@@ -32,6 +24,14 @@ h2 {
   text-align: center;
   color: black;
   margin-top: 10px;
+}
+
+body {
+  background-color: lightblue;
+  color: rgb(43, 39, 39);
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 1px;
+  line-height: 1.5;
 }
 
 figure {
