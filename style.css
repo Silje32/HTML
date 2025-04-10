@@ -21,7 +21,8 @@ h2 {
 ul {
   list-style-type: none;
   display: flex;
-  gap: 20px;
+  gap: 25px;
+  text-align: right;
 }
 li {
   color: black;
