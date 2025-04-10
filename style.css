@@ -22,10 +22,10 @@ ul {
   list-style-type: none;
   display: flex;
   gap: 25px;
-  text-align: right;
 }
 li {
   color: black;
+  text-align: right;
 }
 footer {
   background-color: white;
