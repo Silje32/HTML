@@ -21,6 +21,10 @@ h2 {
   margin-top: 10px;
 }
 
+footer {
+  background-color: white;
+}
+
 body {
   background-color: lightblue;
   color: rgb(43, 39, 39);
@@ -39,8 +43,4 @@ figure {
 img {
   max-width: 100%;
   border-radius: 10px;
-}
-
-footer {
-  background-color: white;
 }
