@@ -2,40 +2,33 @@
   margin: 0;
   box-sizing: border-box;
 }
-
 header {
   background-color: white;
   color: black;
 }
-
 h1 {
   font-size: 40px;
   text-align: center;
   margin-top: 40px;
   color: black;
 }
-
 h2 {
   font-size: 30px;
   text-align: center;
   color: black;
   margin-top: 10px;
 }
-
 ul {
   list-style-type: none;
   display: flex;
   gap: 10px;
 }
-
 li {
   color: black;
 }
-
 footer {
   background-color: white;
 }
-
 body {
   background-color: lightblue;
   color: rgb(43, 39, 39);
@@ -43,19 +36,16 @@ body {
   letter-spacing: 1px;
   line-height: 1.5;
 }
-
 figure {
   max-width: 500px;
   margin-inline: auto;
   padding: 20px;
   border: solid 2px white;
 }
-
 img {
   max-width: 100%;
   border-radius: 10px;
 }
-
 p {
   font-size: 20px;
 }
